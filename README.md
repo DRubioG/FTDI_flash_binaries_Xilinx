@@ -3,7 +3,7 @@
 
 # [Binaries](./binaries/)
 
-# [Chips Datasheets](./datasheet/)
+# [Chip Datasheets](./datasheet/)
 
 # [Design References](/design_reference/)
 
