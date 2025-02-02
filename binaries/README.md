@@ -1,9 +1,9 @@
 Binaries tested & working:
 
-# RS232
+# FT232H
 
 - [flash_alinx_ft232h.conf](./ft232/flash_alinx_ft232h.conf) (JTAG)
-- [flash_alinx_ft232h.conf](./ft232/flash_digilent_hs2.conf) (JTAG)
+- [flash_digilent_hs2.conf](./ft232/flash_digilent_hs2.conf) (JTAG)
 
 # FT2232
 
