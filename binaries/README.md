@@ -5,7 +5,7 @@ Binaries tested & working:
 - [flash_alinx_ft232h.conf](./ft232/flash_alinx_ft232h.conf) (JTAG)
 - [flash_digilent_hs2.conf](./ft232/flash_digilent_hs2.conf) (JTAG)
 
-# FT223
+# FT2223
 
 - [flash_digilent.conf](./ft2232/flash_digilent.conf) (JTAG + UART)
 - [flash_digilent_smt1.conf](./ft2232/flash_digilent_smt1.conf) (JTAG + UART)
