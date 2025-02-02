@@ -5,7 +5,7 @@
 
 # [Chip Datasheets](./datasheet/)
 
-# [Design References](/design_reference/)
+# [Design References](/design_references/)
 
 # Referencies
 - https://github.com/dragonlock2/ftdi_dumps
