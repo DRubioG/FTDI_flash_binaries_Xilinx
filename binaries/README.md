@@ -13,3 +13,4 @@ Binaries tested & working:
 - [pynqz2_ftdi.conf](./ft2232/pynqz2_ftdi.conf) (JTAG + UART)
 - [arrow_ftdi.conf](./ft2232/arrow_ftdi.conf) (UART)
 - [arty_a7.conf](./ft2232/arty_a7.conf)
+- [ft2232_2xuart.conf](./ft2232/ft2232_2xuart.conf) (2x UART)
