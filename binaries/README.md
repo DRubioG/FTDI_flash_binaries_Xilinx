@@ -19,3 +19,4 @@ Binaries tested & working:
 
 -[FT4232_4xUARTs.conf](./ft4232/FT4232_4xUARTs.conf) (4x UARTs)
 -[ft4232h.conf](./ft4232/ft4232h.conf) (JTAG + 3x UARTs)
+-[ft4232_test.conf](./ft4232/ft4232_test.conf) (JTAG + 3x UARTs)
